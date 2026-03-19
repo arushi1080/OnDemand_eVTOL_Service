@@ -44,7 +44,7 @@ The survey compares eVTOL against existing intra-city modes — **app cab (Ola/U
 
 ## Live Survey
 
-🔗 **[Click here to open the survey](https://YOUR-USERNAME.github.io/evtol-sp-survey-bangalore/index.html)**
+🔗 **[Click here to open the survey](https://arushi1080.github.io/OnDemand_eVTOL_Service/index.html)**
 
 *(Replace YOUR-USERNAME with your GitHub username after deployment)*
 
